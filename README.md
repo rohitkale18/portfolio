@@ -4,13 +4,6 @@
 
 
 ### Website Preview
-#### Home Page
-<img src="website_images/HomePage.gif" width="900">
-
-
-#### About Page
-<img src="website_images/AboutPage.png" width="900">
-  
 
 
 :star: Star me on GitHub — it helps!
@@ -29,15 +22,14 @@
 - To deploy your website, first you need to create github repository with name `<your-github-username>.github.io` and push the generated code to the `master` branch.
 
 ## Sections 📚
-✔️ About\
-✔️ Interests\
-✔️ Education\
-✔️ Online Certification\
-✔️ Experience\
+✔️ About \
+✔️ Interests \
+✔️ Education \
+✔️ Online Certification \
 ✔️ Projects \
 ✔️ Skills \
-✔️ Resume\
-✔️ Contact Info
+✔️ Resume \
+✔️ Contact Info \
 
 
 
